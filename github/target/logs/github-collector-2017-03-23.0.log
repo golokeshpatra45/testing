@@ -1,0 +1,395 @@
+2017-03-23 00:00:00,004 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 00:00:00,055 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 00:00:00,055 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 00:04:59,991 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 00:04:59,996 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 00:04:59,997 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 00:04:59,997 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 00:05:00,006 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 00:05:00,007 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 00:05:00,008 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 00:09:59,992 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 00:09:59,996 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 00:09:59,997 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 00:09:59,997 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 00:10:00,004 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 00:10:00,004 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 00:10:00,005 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 00:14:59,991 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 00:14:59,996 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 00:14:59,997 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 00:14:59,997 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 00:15:00,003 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 00:15:00,004 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 00:15:00,004 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 00:20:00,020 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 00:20:00,022 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 00:20:00,022 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 00:20:00,023 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 00:20:00,027 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 00:20:00,027 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 00:20:00,027 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 00:25:00,073 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 00:25:00,079 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 00:25:00,080 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 00:25:00,080 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 00:25:00,087 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 00:25:00,088 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 00:25:00,088 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 00:30:00,021 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 00:30:00,028 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 00:30:00,029 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 00:30:00,029 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 00:30:00,035 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 00:30:00,036 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 00:30:00,037 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 00:35:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 00:35:00,011 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 00:35:00,012 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 00:35:00,012 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 00:35:00,019 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 00:35:00,019 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 00:35:00,019 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 00:39:59,998 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 00:40:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 00:40:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 00:40:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 00:40:00,014 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 00:40:00,015 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 00:40:00,015 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 00:44:59,995 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 00:45:00,001 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 00:45:00,001 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 00:45:00,002 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 00:45:00,010 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 00:45:00,011 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 00:45:00,011 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 00:49:59,994 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 00:49:59,996 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 00:49:59,996 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 00:49:59,996 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 00:49:59,998 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 00:49:59,999 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 00:49:59,999 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 00:54:59,993 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 00:54:59,996 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 00:54:59,996 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 00:54:59,996 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 00:55:00,001 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 00:55:00,002 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 00:55:00,002 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 00:59:59,993 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 00:59:59,999 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 00:59:59,999 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 00:59:59,999 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 01:00:00,007 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 01:00:00,008 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 01:00:00,008 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 01:04:59,993 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 01:05:00,001 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 01:05:00,001 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 01:05:00,002 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 01:05:00,009 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 01:05:00,009 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 01:05:00,009 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 01:09:59,993 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 01:09:59,997 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 01:09:59,998 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 01:09:59,999 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 01:10:00,003 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 01:10:00,003 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 01:10:00,003 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 01:14:59,994 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 01:15:00,001 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 01:15:00,001 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 01:15:00,002 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 01:15:00,009 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 01:15:00,009 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 01:15:00,010 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 01:19:59,994 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 01:20:00,000 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 01:20:00,001 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 01:20:00,001 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 01:20:00,007 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 01:20:00,008 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 01:20:00,008 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 01:24:59,994 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 01:25:00,002 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 01:25:00,002 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 01:25:00,002 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 01:25:00,011 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 01:25:00,011 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 01:25:00,011 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 01:27:49,186 INFO  com.capitalone.dashboard.Application - Starting Application on PATRAG3 with PID 3268 (C:\Hygieia-master\collectors\scm\github\target\classes started by patrag in C:\Hygieia-master\collectors\scm\github\target)
+2017-03-23 01:27:49,215 INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@641147d0: startup date [Thu Mar 23 01:27:49 IST 2017]; root of context hierarchy
+2017-03-23 01:27:50,091 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Post-processing PropertySource instances
+2017-03-23 01:27:50,110 INFO  c.u.j.c.StringEncryptorConfiguration - String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing String Encryptor based on properties with name 'jasyptStringEncryptor'
+2017-03-23 01:27:50,115 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource commandLineArgs [org.springframework.core.env.SimpleCommandLinePropertySource] to EncryptableEnumerablePropertySourceWrapper
+2017-03-23 01:27:50,115 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2017-03-23 01:27:50,115 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2017-03-23 01:27:50,115 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2017-03-23 01:27:50,116 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource applicationConfig: [file:dashboard.properties] [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2017-03-23 01:27:50,119 INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-03-23 01:27:50,162 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.1.3.Final
+2017-03-23 01:27:51,411 INFO  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService  'taskScheduler'
+2017-03-23 01:27:51,523 INFO  c.c.dashboard.config.MongoConfig - ReplicaSetfalse
+2017-03-23 01:27:51,524 INFO  c.c.dashboard.config.MongoConfig - Initializing Mongo Client server at: localhost:27017
+2017-03-23 01:27:52,424 INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2017-03-23 01:27:52,474 INFO  c.c.dashboard.config.MongoConfig - Connecting to Mongo: Mongo{options=MongoClientOptions{description='null', readPreference=primary, writeConcern=WriteConcern{w=1, wtimeout=0, fsync=false, j=false, codecRegistry=org.bson.codecs.configuration.ProvidersCodecRegistry@2dd124b3, minConnectionsPerHost=0, maxConnectionsPerHost=100, threadsAllowedToBlockForConnectionMultiplier=5, serverSelectionTimeout=30000, maxWaitTime=120000, maxConnectionIdleTime=0, maxConnectionLifeTime=0, connectTimeout=10000, socketTimeout=0, socketKeepAlive=false, sslEnabled=false, sslInvalidHostNamesAllowed=false, alwaysUseMBeans=false, heartbeatFrequency=10000, minHeartbeatFrequency=500, heartbeatConnectTimeout=20000, heartbeatSocketTimeout=20000, localThreshold=15, requiredReplicaSetName='null', dbDecoderFactory=com.mongodb.DefaultDBDecoder$1@28c0b664, dbEncoderFactory=com.mongodb.DefaultDBEncoder$1@2c444798, socketFactory=javax.net.DefaultSocketFactory@1af7f54a, cursorFinalizerEnabled=true, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitQueueSize=500, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=20000, readTimeoutMS=20000, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}}}
+2017-03-23 01:27:52,591 INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:21}] to localhost:27017
+2017-03-23 01:27:52,592 INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, electionId=null, maxDocumentSize=16777216, roundTripTimeNanos=805531}
+2017-03-23 01:27:52,874 INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:22}] to localhost:27017
+2017-03-23 01:27:53,114 INFO  c.c.dashboard.config.MongoConfig - ReplicaSetfalse
+2017-03-23 01:27:53,114 INFO  c.c.dashboard.config.MongoConfig - Initializing Mongo Client server at: localhost:27017
+2017-03-23 01:27:53,115 INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2017-03-23 01:27:53,116 INFO  c.c.dashboard.config.MongoConfig - Connecting to Mongo: Mongo{options=MongoClientOptions{description='null', readPreference=primary, writeConcern=WriteConcern{w=1, wtimeout=0, fsync=false, j=false, codecRegistry=org.bson.codecs.configuration.ProvidersCodecRegistry@2dd124b3, minConnectionsPerHost=0, maxConnectionsPerHost=100, threadsAllowedToBlockForConnectionMultiplier=5, serverSelectionTimeout=30000, maxWaitTime=120000, maxConnectionIdleTime=0, maxConnectionLifeTime=0, connectTimeout=10000, socketTimeout=0, socketKeepAlive=false, sslEnabled=false, sslInvalidHostNamesAllowed=false, alwaysUseMBeans=false, heartbeatFrequency=10000, minHeartbeatFrequency=500, heartbeatConnectTimeout=20000, heartbeatSocketTimeout=20000, localThreshold=15, requiredReplicaSetName='null', dbDecoderFactory=com.mongodb.DefaultDBDecoder$1@28c0b664, dbEncoderFactory=com.mongodb.DefaultDBEncoder$1@2c444798, socketFactory=javax.net.DefaultSocketFactory@1af7f54a, cursorFinalizerEnabled=true, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitQueueSize=500, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=20000, readTimeoutMS=20000, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}}}
+2017-03-23 01:27:53,126 INFO  c.c.dashboard.config.MongoConfig - ReplicaSetfalse
+2017-03-23 01:27:53,126 INFO  c.c.dashboard.config.MongoConfig - Initializing Mongo Client server at: localhost:27017
+2017-03-23 01:27:53,127 INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2017-03-23 01:27:53,128 INFO  c.c.dashboard.config.MongoConfig - Connecting to Mongo: Mongo{options=MongoClientOptions{description='null', readPreference=primary, writeConcern=WriteConcern{w=1, wtimeout=0, fsync=false, j=false, codecRegistry=org.bson.codecs.configuration.ProvidersCodecRegistry@2dd124b3, minConnectionsPerHost=0, maxConnectionsPerHost=100, threadsAllowedToBlockForConnectionMultiplier=5, serverSelectionTimeout=30000, maxWaitTime=120000, maxConnectionIdleTime=0, maxConnectionLifeTime=0, connectTimeout=10000, socketTimeout=0, socketKeepAlive=false, sslEnabled=false, sslInvalidHostNamesAllowed=false, alwaysUseMBeans=false, heartbeatFrequency=10000, minHeartbeatFrequency=500, heartbeatConnectTimeout=20000, heartbeatSocketTimeout=20000, localThreshold=15, requiredReplicaSetName='null', dbDecoderFactory=com.mongodb.DefaultDBDecoder$1@28c0b664, dbEncoderFactory=com.mongodb.DefaultDBEncoder$1@2c444798, socketFactory=javax.net.DefaultSocketFactory@1af7f54a, cursorFinalizerEnabled=true, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitQueueSize=500, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=20000, readTimeoutMS=20000, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}}}
+2017-03-23 01:27:53,139 INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:3, serverValue:23}] to localhost:27017
+2017-03-23 01:27:53,140 INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, electionId=null, maxDocumentSize=16777216, roundTripTimeNanos=591803}
+2017-03-23 01:27:53,150 INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:4, serverValue:24}] to localhost:27017
+2017-03-23 01:27:53,151 INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, electionId=null, maxDocumentSize=16777216, roundTripTimeNanos=693729}
+2017-03-23 01:27:53,466 INFO  c.c.dashboard.config.MongoConfig - ReplicaSetfalse
+2017-03-23 01:27:53,467 INFO  c.c.dashboard.config.MongoConfig - Initializing Mongo Client server at: localhost:27017
+2017-03-23 01:27:53,467 INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2017-03-23 01:27:53,468 INFO  c.c.dashboard.config.MongoConfig - Connecting to Mongo: Mongo{options=MongoClientOptions{description='null', readPreference=primary, writeConcern=WriteConcern{w=1, wtimeout=0, fsync=false, j=false, codecRegistry=org.bson.codecs.configuration.ProvidersCodecRegistry@2dd124b3, minConnectionsPerHost=0, maxConnectionsPerHost=100, threadsAllowedToBlockForConnectionMultiplier=5, serverSelectionTimeout=30000, maxWaitTime=120000, maxConnectionIdleTime=0, maxConnectionLifeTime=0, connectTimeout=10000, socketTimeout=0, socketKeepAlive=false, sslEnabled=false, sslInvalidHostNamesAllowed=false, alwaysUseMBeans=false, heartbeatFrequency=10000, minHeartbeatFrequency=500, heartbeatConnectTimeout=20000, heartbeatSocketTimeout=20000, localThreshold=15, requiredReplicaSetName='null', dbDecoderFactory=com.mongodb.DefaultDBDecoder$1@28c0b664, dbEncoderFactory=com.mongodb.DefaultDBEncoder$1@2c444798, socketFactory=javax.net.DefaultSocketFactory@1af7f54a, cursorFinalizerEnabled=true, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitQueueSize=500, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=20000, readTimeoutMS=20000, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}}}
+2017-03-23 01:27:53,494 INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:5, serverValue:25}] to localhost:27017
+2017-03-23 01:27:53,495 INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, electionId=null, maxDocumentSize=16777216, roundTripTimeNanos=560593}
+2017-03-23 01:27:53,951 INFO  o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2017-03-23 01:27:53,960 INFO  com.capitalone.dashboard.Application - Started Application in 4.963 seconds (JVM running for 5.55)
+2017-03-23 01:29:59,994 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 01:30:00,000 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 01:30:00,000 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 01:30:00,000 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 01:30:00,006 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 01:30:00,007 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 01:30:00,007 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 01:34:34,391 INFO  com.capitalone.dashboard.Application - Starting Application on PATRAG3 with PID 12376 (C:\Hygieia-master\collectors\scm\github\target\classes started by patrag in C:\Hygieia-master\collectors\scm\github\target)
+2017-03-23 01:34:34,432 INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@641147d0: startup date [Thu Mar 23 01:34:34 IST 2017]; root of context hierarchy
+2017-03-23 01:34:35,344 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Post-processing PropertySource instances
+2017-03-23 01:34:35,364 INFO  c.u.j.c.StringEncryptorConfiguration - String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing String Encryptor based on properties with name 'jasyptStringEncryptor'
+2017-03-23 01:34:35,369 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource commandLineArgs [org.springframework.core.env.SimpleCommandLinePropertySource] to EncryptableEnumerablePropertySourceWrapper
+2017-03-23 01:34:35,369 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2017-03-23 01:34:35,369 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2017-03-23 01:34:35,370 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2017-03-23 01:34:35,370 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource applicationConfig: [file:dashboard.properties] [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2017-03-23 01:34:35,374 INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-03-23 01:34:35,415 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.1.3.Final
+2017-03-23 01:34:36,807 INFO  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService  'taskScheduler'
+2017-03-23 01:34:36,916 INFO  c.c.dashboard.config.MongoConfig - ReplicaSetfalse
+2017-03-23 01:34:36,917 INFO  c.c.dashboard.config.MongoConfig - Initializing Mongo Client server at: localhost:27017
+2017-03-23 01:34:37,760 INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2017-03-23 01:34:37,808 INFO  c.c.dashboard.config.MongoConfig - Connecting to Mongo: Mongo{options=MongoClientOptions{description='null', readPreference=primary, writeConcern=WriteConcern{w=1, wtimeout=0, fsync=false, j=false, codecRegistry=org.bson.codecs.configuration.ProvidersCodecRegistry@2dd124b3, minConnectionsPerHost=0, maxConnectionsPerHost=100, threadsAllowedToBlockForConnectionMultiplier=5, serverSelectionTimeout=30000, maxWaitTime=120000, maxConnectionIdleTime=0, maxConnectionLifeTime=0, connectTimeout=10000, socketTimeout=0, socketKeepAlive=false, sslEnabled=false, sslInvalidHostNamesAllowed=false, alwaysUseMBeans=false, heartbeatFrequency=10000, minHeartbeatFrequency=500, heartbeatConnectTimeout=20000, heartbeatSocketTimeout=20000, localThreshold=15, requiredReplicaSetName='null', dbDecoderFactory=com.mongodb.DefaultDBDecoder$1@28c0b664, dbEncoderFactory=com.mongodb.DefaultDBEncoder$1@2c444798, socketFactory=javax.net.DefaultSocketFactory@1af7f54a, cursorFinalizerEnabled=true, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitQueueSize=500, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=20000, readTimeoutMS=20000, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}}}
+2017-03-23 01:34:37,972 INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:26}] to localhost:27017
+2017-03-23 01:34:37,974 INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, electionId=null, maxDocumentSize=16777216, roundTripTimeNanos=1008594}
+2017-03-23 01:34:38,230 INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:27}] to localhost:27017
+2017-03-23 01:34:38,511 INFO  c.c.dashboard.config.MongoConfig - ReplicaSetfalse
+2017-03-23 01:34:38,511 INFO  c.c.dashboard.config.MongoConfig - Initializing Mongo Client server at: localhost:27017
+2017-03-23 01:34:38,511 INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2017-03-23 01:34:38,512 INFO  c.c.dashboard.config.MongoConfig - Connecting to Mongo: Mongo{options=MongoClientOptions{description='null', readPreference=primary, writeConcern=WriteConcern{w=1, wtimeout=0, fsync=false, j=false, codecRegistry=org.bson.codecs.configuration.ProvidersCodecRegistry@2dd124b3, minConnectionsPerHost=0, maxConnectionsPerHost=100, threadsAllowedToBlockForConnectionMultiplier=5, serverSelectionTimeout=30000, maxWaitTime=120000, maxConnectionIdleTime=0, maxConnectionLifeTime=0, connectTimeout=10000, socketTimeout=0, socketKeepAlive=false, sslEnabled=false, sslInvalidHostNamesAllowed=false, alwaysUseMBeans=false, heartbeatFrequency=10000, minHeartbeatFrequency=500, heartbeatConnectTimeout=20000, heartbeatSocketTimeout=20000, localThreshold=15, requiredReplicaSetName='null', dbDecoderFactory=com.mongodb.DefaultDBDecoder$1@28c0b664, dbEncoderFactory=com.mongodb.DefaultDBEncoder$1@2c444798, socketFactory=javax.net.DefaultSocketFactory@1af7f54a, cursorFinalizerEnabled=true, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitQueueSize=500, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=20000, readTimeoutMS=20000, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}}}
+2017-03-23 01:34:38,522 INFO  c.c.dashboard.config.MongoConfig - ReplicaSetfalse
+2017-03-23 01:34:38,522 INFO  c.c.dashboard.config.MongoConfig - Initializing Mongo Client server at: localhost:27017
+2017-03-23 01:34:38,522 INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2017-03-23 01:34:38,523 INFO  c.c.dashboard.config.MongoConfig - Connecting to Mongo: Mongo{options=MongoClientOptions{description='null', readPreference=primary, writeConcern=WriteConcern{w=1, wtimeout=0, fsync=false, j=false, codecRegistry=org.bson.codecs.configuration.ProvidersCodecRegistry@2dd124b3, minConnectionsPerHost=0, maxConnectionsPerHost=100, threadsAllowedToBlockForConnectionMultiplier=5, serverSelectionTimeout=30000, maxWaitTime=120000, maxConnectionIdleTime=0, maxConnectionLifeTime=0, connectTimeout=10000, socketTimeout=0, socketKeepAlive=false, sslEnabled=false, sslInvalidHostNamesAllowed=false, alwaysUseMBeans=false, heartbeatFrequency=10000, minHeartbeatFrequency=500, heartbeatConnectTimeout=20000, heartbeatSocketTimeout=20000, localThreshold=15, requiredReplicaSetName='null', dbDecoderFactory=com.mongodb.DefaultDBDecoder$1@28c0b664, dbEncoderFactory=com.mongodb.DefaultDBEncoder$1@2c444798, socketFactory=javax.net.DefaultSocketFactory@1af7f54a, cursorFinalizerEnabled=true, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitQueueSize=500, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=20000, readTimeoutMS=20000, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}}}
+2017-03-23 01:34:38,535 INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:3, serverValue:28}] to localhost:27017
+2017-03-23 01:34:38,536 INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, electionId=null, maxDocumentSize=16777216, roundTripTimeNanos=487507}
+2017-03-23 01:34:38,547 INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:4, serverValue:29}] to localhost:27017
+2017-03-23 01:34:38,548 INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, electionId=null, maxDocumentSize=16777216, roundTripTimeNanos=703606}
+2017-03-23 01:34:38,820 INFO  c.c.dashboard.config.MongoConfig - ReplicaSetfalse
+2017-03-23 01:34:38,821 INFO  c.c.dashboard.config.MongoConfig - Initializing Mongo Client server at: localhost:27017
+2017-03-23 01:34:38,821 INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2017-03-23 01:34:38,822 INFO  c.c.dashboard.config.MongoConfig - Connecting to Mongo: Mongo{options=MongoClientOptions{description='null', readPreference=primary, writeConcern=WriteConcern{w=1, wtimeout=0, fsync=false, j=false, codecRegistry=org.bson.codecs.configuration.ProvidersCodecRegistry@2dd124b3, minConnectionsPerHost=0, maxConnectionsPerHost=100, threadsAllowedToBlockForConnectionMultiplier=5, serverSelectionTimeout=30000, maxWaitTime=120000, maxConnectionIdleTime=0, maxConnectionLifeTime=0, connectTimeout=10000, socketTimeout=0, socketKeepAlive=false, sslEnabled=false, sslInvalidHostNamesAllowed=false, alwaysUseMBeans=false, heartbeatFrequency=10000, minHeartbeatFrequency=500, heartbeatConnectTimeout=20000, heartbeatSocketTimeout=20000, localThreshold=15, requiredReplicaSetName='null', dbDecoderFactory=com.mongodb.DefaultDBDecoder$1@28c0b664, dbEncoderFactory=com.mongodb.DefaultDBEncoder$1@2c444798, socketFactory=javax.net.DefaultSocketFactory@1af7f54a, cursorFinalizerEnabled=true, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitQueueSize=500, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=20000, readTimeoutMS=20000, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}}}
+2017-03-23 01:34:38,847 INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:5, serverValue:30}] to localhost:27017
+2017-03-23 01:34:38,848 INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, electionId=null, maxDocumentSize=16777216, roundTripTimeNanos=606026}
+2017-03-23 01:34:39,318 INFO  o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2017-03-23 01:34:39,327 INFO  com.capitalone.dashboard.Application - Started Application in 5.125 seconds (JVM running for 5.688)
+2017-03-23 01:35:00,000 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 01:35:00,009 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 01:35:00,010 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 01:35:00,010 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 01:35:00,057 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 01:35:00,058 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 01:35:00,059 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 13:19:39,268 INFO  com.capitalone.dashboard.Application - Starting Application on PATRAG3 with PID 8248 (C:\Hygieia-master\collectors\scm\github\target\classes started by patrag in C:\Hygieia-master\collectors\scm\github\target)
+2017-03-23 13:19:39,296 INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@64d7f7e0: startup date [Thu Mar 23 13:19:39 IST 2017]; root of context hierarchy
+2017-03-23 13:19:40,067 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Post-processing PropertySource instances
+2017-03-23 13:19:40,088 INFO  c.u.j.c.StringEncryptorConfiguration - String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing String Encryptor based on properties with name 'jasyptStringEncryptor'
+2017-03-23 13:19:40,092 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource commandLineArgs [org.springframework.core.env.SimpleCommandLinePropertySource] to EncryptableEnumerablePropertySourceWrapper
+2017-03-23 13:19:40,092 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2017-03-23 13:19:40,093 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2017-03-23 13:19:40,093 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2017-03-23 13:19:40,093 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource applicationConfig: [file:dashboard.properties] [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2017-03-23 13:19:40,096 INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-03-23 13:19:40,130 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.1.3.Final
+2017-03-23 13:19:41,452 INFO  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService  'taskScheduler'
+2017-03-23 13:19:41,553 INFO  c.c.dashboard.config.MongoConfig - ReplicaSetfalse
+2017-03-23 13:19:41,555 INFO  c.c.dashboard.config.MongoConfig - Initializing Mongo Client server at: localhost:27017
+2017-03-23 13:19:42,272 INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2017-03-23 13:19:42,349 INFO  c.c.dashboard.config.MongoConfig - Connecting to Mongo: Mongo{options=MongoClientOptions{description='null', readPreference=primary, writeConcern=WriteConcern{w=1, wtimeout=0, fsync=false, j=false, codecRegistry=org.bson.codecs.configuration.ProvidersCodecRegistry@a162e3cf, minConnectionsPerHost=0, maxConnectionsPerHost=100, threadsAllowedToBlockForConnectionMultiplier=5, serverSelectionTimeout=30000, maxWaitTime=120000, maxConnectionIdleTime=0, maxConnectionLifeTime=0, connectTimeout=10000, socketTimeout=0, socketKeepAlive=false, sslEnabled=false, sslInvalidHostNamesAllowed=false, alwaysUseMBeans=false, heartbeatFrequency=10000, minHeartbeatFrequency=500, heartbeatConnectTimeout=20000, heartbeatSocketTimeout=20000, localThreshold=15, requiredReplicaSetName='null', dbDecoderFactory=com.mongodb.DefaultDBDecoder$1@790132f7, dbEncoderFactory=com.mongodb.DefaultDBEncoder$1@2228db21, socketFactory=javax.net.DefaultSocketFactory@48b0e701, cursorFinalizerEnabled=true, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitQueueSize=500, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=20000, readTimeoutMS=20000, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}}}
+2017-03-23 13:19:42,462 INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:31}] to localhost:27017
+2017-03-23 13:19:42,464 INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, electionId=null, maxDocumentSize=16777216, roundTripTimeNanos=705580}
+2017-03-23 13:19:42,695 INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:32}] to localhost:27017
+2017-03-23 13:19:42,888 INFO  c.c.dashboard.config.MongoConfig - ReplicaSetfalse
+2017-03-23 13:19:42,889 INFO  c.c.dashboard.config.MongoConfig - Initializing Mongo Client server at: localhost:27017
+2017-03-23 13:19:42,889 INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2017-03-23 13:19:42,890 INFO  c.c.dashboard.config.MongoConfig - Connecting to Mongo: Mongo{options=MongoClientOptions{description='null', readPreference=primary, writeConcern=WriteConcern{w=1, wtimeout=0, fsync=false, j=false, codecRegistry=org.bson.codecs.configuration.ProvidersCodecRegistry@a162e3cf, minConnectionsPerHost=0, maxConnectionsPerHost=100, threadsAllowedToBlockForConnectionMultiplier=5, serverSelectionTimeout=30000, maxWaitTime=120000, maxConnectionIdleTime=0, maxConnectionLifeTime=0, connectTimeout=10000, socketTimeout=0, socketKeepAlive=false, sslEnabled=false, sslInvalidHostNamesAllowed=false, alwaysUseMBeans=false, heartbeatFrequency=10000, minHeartbeatFrequency=500, heartbeatConnectTimeout=20000, heartbeatSocketTimeout=20000, localThreshold=15, requiredReplicaSetName='null', dbDecoderFactory=com.mongodb.DefaultDBDecoder$1@790132f7, dbEncoderFactory=com.mongodb.DefaultDBEncoder$1@2228db21, socketFactory=javax.net.DefaultSocketFactory@48b0e701, cursorFinalizerEnabled=true, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitQueueSize=500, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=20000, readTimeoutMS=20000, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}}}
+2017-03-23 13:19:42,898 INFO  c.c.dashboard.config.MongoConfig - ReplicaSetfalse
+2017-03-23 13:19:42,898 INFO  c.c.dashboard.config.MongoConfig - Initializing Mongo Client server at: localhost:27017
+2017-03-23 13:19:42,899 INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2017-03-23 13:19:42,899 INFO  c.c.dashboard.config.MongoConfig - Connecting to Mongo: Mongo{options=MongoClientOptions{description='null', readPreference=primary, writeConcern=WriteConcern{w=1, wtimeout=0, fsync=false, j=false, codecRegistry=org.bson.codecs.configuration.ProvidersCodecRegistry@a162e3cf, minConnectionsPerHost=0, maxConnectionsPerHost=100, threadsAllowedToBlockForConnectionMultiplier=5, serverSelectionTimeout=30000, maxWaitTime=120000, maxConnectionIdleTime=0, maxConnectionLifeTime=0, connectTimeout=10000, socketTimeout=0, socketKeepAlive=false, sslEnabled=false, sslInvalidHostNamesAllowed=false, alwaysUseMBeans=false, heartbeatFrequency=10000, minHeartbeatFrequency=500, heartbeatConnectTimeout=20000, heartbeatSocketTimeout=20000, localThreshold=15, requiredReplicaSetName='null', dbDecoderFactory=com.mongodb.DefaultDBDecoder$1@790132f7, dbEncoderFactory=com.mongodb.DefaultDBEncoder$1@2228db21, socketFactory=javax.net.DefaultSocketFactory@48b0e701, cursorFinalizerEnabled=true, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitQueueSize=500, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=20000, readTimeoutMS=20000, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}}}
+2017-03-23 13:19:42,923 INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:3, serverValue:33}] to localhost:27017
+2017-03-23 13:19:42,924 INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, electionId=null, maxDocumentSize=16777216, roundTripTimeNanos=445630}
+2017-03-23 13:19:42,932 INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:4, serverValue:34}] to localhost:27017
+2017-03-23 13:19:42,934 INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, electionId=null, maxDocumentSize=16777216, roundTripTimeNanos=1506372}
+2017-03-23 13:19:43,128 INFO  c.c.dashboard.config.MongoConfig - ReplicaSetfalse
+2017-03-23 13:19:43,128 INFO  c.c.dashboard.config.MongoConfig - Initializing Mongo Client server at: localhost:27017
+2017-03-23 13:19:43,129 INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2017-03-23 13:19:43,130 INFO  c.c.dashboard.config.MongoConfig - Connecting to Mongo: Mongo{options=MongoClientOptions{description='null', readPreference=primary, writeConcern=WriteConcern{w=1, wtimeout=0, fsync=false, j=false, codecRegistry=org.bson.codecs.configuration.ProvidersCodecRegistry@a162e3cf, minConnectionsPerHost=0, maxConnectionsPerHost=100, threadsAllowedToBlockForConnectionMultiplier=5, serverSelectionTimeout=30000, maxWaitTime=120000, maxConnectionIdleTime=0, maxConnectionLifeTime=0, connectTimeout=10000, socketTimeout=0, socketKeepAlive=false, sslEnabled=false, sslInvalidHostNamesAllowed=false, alwaysUseMBeans=false, heartbeatFrequency=10000, minHeartbeatFrequency=500, heartbeatConnectTimeout=20000, heartbeatSocketTimeout=20000, localThreshold=15, requiredReplicaSetName='null', dbDecoderFactory=com.mongodb.DefaultDBDecoder$1@790132f7, dbEncoderFactory=com.mongodb.DefaultDBEncoder$1@2228db21, socketFactory=javax.net.DefaultSocketFactory@48b0e701, cursorFinalizerEnabled=true, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitQueueSize=500, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=20000, readTimeoutMS=20000, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}}}
+2017-03-23 13:19:43,155 INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:5, serverValue:35}] to localhost:27017
+2017-03-23 13:19:43,156 INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, electionId=null, maxDocumentSize=16777216, roundTripTimeNanos=566124}
+2017-03-23 13:19:43,493 INFO  o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2017-03-23 13:19:43,499 INFO  com.capitalone.dashboard.Application - Started Application in 4.417 seconds (JVM running for 5.97)
+2017-03-23 13:20:00,000 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 13:20:00,005 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 13:20:00,005 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 13:20:00,005 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 13:20:00,022 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 13:20:00,022 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 13:20:00,022 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 13:25:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 13:25:00,009 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 13:25:00,009 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 13:25:00,009 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 13:25:00,012 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 13:25:00,013 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 13:25:00,013 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 13:29:59,992 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 13:29:59,998 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 13:29:59,999 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 13:29:59,999 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 13:30:00,007 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 13:30:00,007 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 13:30:00,007 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 13:34:59,998 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 13:35:00,004 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 13:35:00,005 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 13:35:00,005 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 13:35:00,012 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 13:35:00,013 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 13:35:00,013 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 13:40:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 13:40:00,010 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 13:40:00,011 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 13:40:00,011 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 13:40:00,018 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 13:40:00,019 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 13:40:00,019 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 13:44:44,129 INFO  com.capitalone.dashboard.Application - Starting Application on PATRAG3 with PID 4732 (C:\Hygieia-master\collectors\scm\github\target\classes started by patrag in C:\Hygieia-master\collectors\scm\github\target)
+2017-03-23 13:44:44,154 INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@64d7f7e0: startup date [Thu Mar 23 13:44:44 IST 2017]; root of context hierarchy
+2017-03-23 13:44:44,872 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Post-processing PropertySource instances
+2017-03-23 13:44:44,888 INFO  c.u.j.c.StringEncryptorConfiguration - String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing String Encryptor based on properties with name 'jasyptStringEncryptor'
+2017-03-23 13:44:44,891 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource commandLineArgs [org.springframework.core.env.SimpleCommandLinePropertySource] to EncryptableEnumerablePropertySourceWrapper
+2017-03-23 13:44:44,892 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2017-03-23 13:44:44,892 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2017-03-23 13:44:44,893 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2017-03-23 13:44:44,893 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource applicationConfig: [file:dashboard.properties] [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2017-03-23 13:44:44,897 INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-03-23 13:44:44,928 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.1.3.Final
+2017-03-23 13:44:45,943 INFO  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService  'taskScheduler'
+2017-03-23 13:44:46,038 INFO  c.c.dashboard.config.MongoConfig - ReplicaSetfalse
+2017-03-23 13:44:46,039 INFO  c.c.dashboard.config.MongoConfig - Initializing Mongo Client server at: localhost:27017
+2017-03-23 13:44:46,726 INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2017-03-23 13:44:46,770 INFO  c.c.dashboard.config.MongoConfig - Connecting to Mongo: Mongo{options=MongoClientOptions{description='null', readPreference=primary, writeConcern=WriteConcern{w=1, wtimeout=0, fsync=false, j=false, codecRegistry=org.bson.codecs.configuration.ProvidersCodecRegistry@a162e3cf, minConnectionsPerHost=0, maxConnectionsPerHost=100, threadsAllowedToBlockForConnectionMultiplier=5, serverSelectionTimeout=30000, maxWaitTime=120000, maxConnectionIdleTime=0, maxConnectionLifeTime=0, connectTimeout=10000, socketTimeout=0, socketKeepAlive=false, sslEnabled=false, sslInvalidHostNamesAllowed=false, alwaysUseMBeans=false, heartbeatFrequency=10000, minHeartbeatFrequency=500, heartbeatConnectTimeout=20000, heartbeatSocketTimeout=20000, localThreshold=15, requiredReplicaSetName='null', dbDecoderFactory=com.mongodb.DefaultDBDecoder$1@790132f7, dbEncoderFactory=com.mongodb.DefaultDBEncoder$1@2228db21, socketFactory=javax.net.DefaultSocketFactory@48b0e701, cursorFinalizerEnabled=true, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitQueueSize=500, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=20000, readTimeoutMS=20000, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}}}
+2017-03-23 13:44:46,892 INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:36}] to localhost:27017
+2017-03-23 13:44:46,893 INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, electionId=null, maxDocumentSize=16777216, roundTripTimeNanos=532938}
+2017-03-23 13:44:47,109 INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:37}] to localhost:27017
+2017-03-23 13:44:47,300 INFO  c.c.dashboard.config.MongoConfig - ReplicaSetfalse
+2017-03-23 13:44:47,301 INFO  c.c.dashboard.config.MongoConfig - Initializing Mongo Client server at: localhost:27017
+2017-03-23 13:44:47,301 INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2017-03-23 13:44:47,312 INFO  c.c.dashboard.config.MongoConfig - Connecting to Mongo: Mongo{options=MongoClientOptions{description='null', readPreference=primary, writeConcern=WriteConcern{w=1, wtimeout=0, fsync=false, j=false, codecRegistry=org.bson.codecs.configuration.ProvidersCodecRegistry@a162e3cf, minConnectionsPerHost=0, maxConnectionsPerHost=100, threadsAllowedToBlockForConnectionMultiplier=5, serverSelectionTimeout=30000, maxWaitTime=120000, maxConnectionIdleTime=0, maxConnectionLifeTime=0, connectTimeout=10000, socketTimeout=0, socketKeepAlive=false, sslEnabled=false, sslInvalidHostNamesAllowed=false, alwaysUseMBeans=false, heartbeatFrequency=10000, minHeartbeatFrequency=500, heartbeatConnectTimeout=20000, heartbeatSocketTimeout=20000, localThreshold=15, requiredReplicaSetName='null', dbDecoderFactory=com.mongodb.DefaultDBDecoder$1@790132f7, dbEncoderFactory=com.mongodb.DefaultDBEncoder$1@2228db21, socketFactory=javax.net.DefaultSocketFactory@48b0e701, cursorFinalizerEnabled=true, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitQueueSize=500, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=20000, readTimeoutMS=20000, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}}}
+2017-03-23 13:44:47,320 INFO  c.c.dashboard.config.MongoConfig - ReplicaSetfalse
+2017-03-23 13:44:47,321 INFO  c.c.dashboard.config.MongoConfig - Initializing Mongo Client server at: localhost:27017
+2017-03-23 13:44:47,321 INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2017-03-23 13:44:47,323 INFO  c.c.dashboard.config.MongoConfig - Connecting to Mongo: Mongo{options=MongoClientOptions{description='null', readPreference=primary, writeConcern=WriteConcern{w=1, wtimeout=0, fsync=false, j=false, codecRegistry=org.bson.codecs.configuration.ProvidersCodecRegistry@a162e3cf, minConnectionsPerHost=0, maxConnectionsPerHost=100, threadsAllowedToBlockForConnectionMultiplier=5, serverSelectionTimeout=30000, maxWaitTime=120000, maxConnectionIdleTime=0, maxConnectionLifeTime=0, connectTimeout=10000, socketTimeout=0, socketKeepAlive=false, sslEnabled=false, sslInvalidHostNamesAllowed=false, alwaysUseMBeans=false, heartbeatFrequency=10000, minHeartbeatFrequency=500, heartbeatConnectTimeout=20000, heartbeatSocketTimeout=20000, localThreshold=15, requiredReplicaSetName='null', dbDecoderFactory=com.mongodb.DefaultDBDecoder$1@790132f7, dbEncoderFactory=com.mongodb.DefaultDBEncoder$1@2228db21, socketFactory=javax.net.DefaultSocketFactory@48b0e701, cursorFinalizerEnabled=true, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitQueueSize=500, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=20000, readTimeoutMS=20000, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}}}
+2017-03-23 13:44:47,332 INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:3, serverValue:38}] to localhost:27017
+2017-03-23 13:44:47,333 INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, electionId=null, maxDocumentSize=16777216, roundTripTimeNanos=581926}
+2017-03-23 13:44:47,346 INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:4, serverValue:39}] to localhost:27017
+2017-03-23 13:44:47,347 INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, electionId=null, maxDocumentSize=16777216, roundTripTimeNanos=792890}
+2017-03-23 13:44:47,548 INFO  c.c.dashboard.config.MongoConfig - ReplicaSetfalse
+2017-03-23 13:44:47,548 INFO  c.c.dashboard.config.MongoConfig - Initializing Mongo Client server at: localhost:27017
+2017-03-23 13:44:47,549 INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2017-03-23 13:44:47,550 INFO  c.c.dashboard.config.MongoConfig - Connecting to Mongo: Mongo{options=MongoClientOptions{description='null', readPreference=primary, writeConcern=WriteConcern{w=1, wtimeout=0, fsync=false, j=false, codecRegistry=org.bson.codecs.configuration.ProvidersCodecRegistry@a162e3cf, minConnectionsPerHost=0, maxConnectionsPerHost=100, threadsAllowedToBlockForConnectionMultiplier=5, serverSelectionTimeout=30000, maxWaitTime=120000, maxConnectionIdleTime=0, maxConnectionLifeTime=0, connectTimeout=10000, socketTimeout=0, socketKeepAlive=false, sslEnabled=false, sslInvalidHostNamesAllowed=false, alwaysUseMBeans=false, heartbeatFrequency=10000, minHeartbeatFrequency=500, heartbeatConnectTimeout=20000, heartbeatSocketTimeout=20000, localThreshold=15, requiredReplicaSetName='null', dbDecoderFactory=com.mongodb.DefaultDBDecoder$1@790132f7, dbEncoderFactory=com.mongodb.DefaultDBEncoder$1@2228db21, socketFactory=javax.net.DefaultSocketFactory@48b0e701, cursorFinalizerEnabled=true, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitQueueSize=500, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=20000, readTimeoutMS=20000, keepAlive=false, receiveBufferSize=0, sendBufferSize=0}}}
+2017-03-23 13:44:47,568 INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:5, serverValue:40}] to localhost:27017
+2017-03-23 13:44:47,569 INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, electionId=null, maxDocumentSize=16777216, roundTripTimeNanos=558223}
+2017-03-23 13:44:47,906 INFO  o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2017-03-23 13:44:47,913 INFO  com.capitalone.dashboard.Application - Started Application in 3.955 seconds (JVM running for 4.449)
+2017-03-23 13:45:00,002 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 13:45:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 13:45:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 13:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 13:45:00,033 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 13:45:00,033 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 13:45:00,033 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 13:50:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 13:50:00,010 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 13:50:00,011 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 13:50:00,011 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 13:50:00,017 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 13:50:00,017 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 13:50:00,018 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 13:55:00,007 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 13:55:00,010 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 13:55:00,011 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 13:55:00,011 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 13:55:00,015 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 13:55:00,015 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 13:55:00,015 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 14:00:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 14:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 14:00:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 14:00:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 14:00:00,011 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 14:00:00,012 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 14:00:00,012 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 14:05:00,025 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-03-23 14:05:00,028 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 14:05:00,028 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-03-23 14:05:00,028 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-03-23 14:05:00,031 INFO  c.c.d.collector.CollectorTask - Repo Count              0        0s
+2017-03-23 14:05:00,031 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-03-23 14:05:00,031 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-03-23 14:30:04,840 INFO  com.capitalone.dashboard.Application - Starting Application on PATRAG3 with PID 3260 (C:\Hygieia-master\collectors\scm\github\target\classes started by patrag in C:\Hygieia-master\collectors\scm\github\target)
+2017-03-23 14:30:04,873 INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@71a8adcf: startup date [Thu Mar 23 14:30:04 IST 2017]; root of context hierarchy
+2017-03-23 14:30:05,743 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Post-processing PropertySource instances
+2017-03-23 14:30:05,760 INFO  c.u.j.c.StringEncryptorConfiguration - String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing String Encryptor based on properties with name 'jasyptStringEncryptor'
+2017-03-23 14:30:05,765 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource commandLineArgs [org.springframework.core.env.SimpleCommandLinePropertySource] to EncryptableEnumerablePropertySourceWrapper
+2017-03-23 14:30:05,766 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2017-03-23 14:30:05,766 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2017-03-23 14:30:05,766 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2017-03-23 14:30:05,766 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource applicationConfig: [file:dashboard.properties] [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2017-03-23 14:30:05,770 INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-03-23 14:30:05,805 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.1.3.Final
+2017-03-23 14:31:58,537 INFO  com.capitalone.dashboard.Application - Starting Application on PATRAG3 with PID 5068 (C:\Hygieia-master\collectors\scm\github\target\classes started by patrag in C:\Hygieia-master\collectors\scm\github\target)
+2017-03-23 14:31:58,570 INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@71a8adcf: startup date [Thu Mar 23 14:31:58 IST 2017]; root of context hierarchy
+2017-03-23 14:31:59,409 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Post-processing PropertySource instances
+2017-03-23 14:31:59,428 INFO  c.u.j.c.StringEncryptorConfiguration - String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing String Encryptor based on properties with name 'jasyptStringEncryptor'
+2017-03-23 14:31:59,433 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource commandLineArgs [org.springframework.core.env.SimpleCommandLinePropertySource] to EncryptableEnumerablePropertySourceWrapper
+2017-03-23 14:31:59,434 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2017-03-23 14:31:59,434 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2017-03-23 14:31:59,435 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2017-03-23 14:31:59,435 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource applicationConfig: [file:dashboard.properties] [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2017-03-23 14:31:59,439 INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-03-23 14:31:59,479 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.1.3.Final
+2017-03-23 14:35:30,043 INFO  com.capitalone.dashboard.Application - Starting Application on PATRAG3 with PID 9632 (C:\Hygieia-master\collectors\scm\github\target\classes started by patrag in C:\Hygieia-master\collectors\scm\github\target)
+2017-03-23 14:35:30,073 INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@71a8adcf: startup date [Thu Mar 23 14:35:30 IST 2017]; root of context hierarchy
+2017-03-23 14:35:31,023 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Post-processing PropertySource instances
+2017-03-23 14:35:31,043 INFO  c.u.j.c.StringEncryptorConfiguration - String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing String Encryptor based on properties with name 'jasyptStringEncryptor'
+2017-03-23 14:35:31,048 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource commandLineArgs [org.springframework.core.env.SimpleCommandLinePropertySource] to EncryptableEnumerablePropertySourceWrapper
+2017-03-23 14:35:31,048 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2017-03-23 14:35:31,049 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2017-03-23 14:35:31,049 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2017-03-23 14:35:31,049 INFO  c.u.j.EnableEncryptablePropertySourcesPostProcessor - Converting PropertySource applicationConfig: [file:dashboard.properties] [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2017-03-23 14:35:31,053 INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-03-23 14:35:31,090 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.1.3.Final
